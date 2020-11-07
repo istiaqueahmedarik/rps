@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@100;300;400;500;600;700;800;900&display=swap');
+/*font-family: 'Big Shoulders Stencil Text', cursive;*/
+a.login {
+    text-decoration: none;
+    color: #83614c;
+}
+
+a.login:hover {
+    text-decoration: underline;
+    color: #e2e20b;
+}
+.headd {
+    /*border: 1px solid;*/
+    text-align: center;
+    color: #2b48d8;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+.anchor {
+    /* border: 1px solid; */
+    height: 349px;
+    width: 383px;
+    margin-left: 36%;
+    background-color: #969a9de3;
+}
+
+.logg {
+    /* border: 1px solid; */
+    margin-left: 20%;
+    /* margin-top: -11%; */
+    /* margin-bottom: 19px; */
+    padding-top: -1%;
+    font-size: 147%;
+    color: #19ef5a;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.gamme {
+    /* border: 1px solid; */
+    text-align: center;
+    font-size: 118%;
+    margin-top: 21%;
+    color: wheat;
+}
+.sc {
+    /* border: 1px solid; */
+    margin: 24%;
+    /* margin-top: 27%; */
+    display: inline-block;
+    /* margin-bottom: 5px; */
+    padding-top: -3%;
+    padding-bottom: 2%;
+}
+body {
+    /* background-image: url(image/); */
+    background-image: url("../image/pexels-photo-4472822.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.gamme a {
+    color: #dfd1c5;
+    text-decoration: none;
+
+}
+.gamme a:hover {
+    color: #ce1da8;
+    font-weight: bolder;
+}

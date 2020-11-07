@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    background-image: url(../image/pexels-photo-345522.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+select {
+    height: 78px;
+    width: 152px;
+    background-color: #e3ddcd;
+    border-radius: 5px;
+    padding-left: 32px;
+    font-size: 19px;
+    font-family: 'Rubik', sans-serif;
+}
+
+input[type="submit"] {
+    height: 35px;
+    width: 71px;
+    margin-left: 26px;
+    border: navajowhite;
+    background-color: #ff7272;
+    font-family: 'Rubik', sans-serif;
+}
+
+pre {
+    color: #ffeb00;
+    font-size: 145%;
+    margin-top: 2%;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+form {
+    /* border: 1px solid; */
+    height: 282px;
+    width: 385px;
+    margin: 0 auto;
+    padding-top: 12%;
+    padding-left: 1%;
+}

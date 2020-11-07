@@ -1,0 +1,45 @@
+body {
+  background-image: url(../image/pexels-photo-583846.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+section#main {
+    /* border: 1px solid; */
+    height: 391px;
+    width: 353px;
+    margin: 0 auto;
+    background-color: #574f45b8;
+        margin-top: 53px;
+}
+section#main h2 {
+
+    text-align: center;
+    font-size: 206%;
+    color: #ff4949;
+    padding-top: 26px;
+    padding-bottom: 19px;
+}
+form.form {
+
+    height: 227px;
+    width: 341px;
+    margin-left: 16px;
+}
+.name {
+    /* border: 1px solid; */
+    margin-top: 24px;
+    padding-left: 27px;
+    font-size: 100%;
+    color: #35c4e4;
+    margin-bottom: 8px;
+}
+input[type="submit"] {
+    background: #d8109194;
+    border: none;
+    margin-left: 63px;
+    margin-top: 30px;
+    padding: 6px;
+    padding-right: 14px;
+    padding-left: 14px;
+    border-radius: 3px;
+}
